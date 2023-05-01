@@ -1,0 +1,11 @@
+const LOGINSUCCESSMESSAGE = "Login Successful";
+const LOGINFAILEDMESSAGE = "Login Failed.";
+const SIGNUPSUCCESSMESSAGE = "Registered Succesfully.";
+const SIGNUPFAILEDMESSAGE = "Registration Failed.";
+
+export default {
+  LOGINSUCCESSMESSAGE,
+  LOGINFAILEDMESSAGE,
+  SIGNUPSUCCESSMESSAGE,
+  SIGNUPFAILEDMESSAGE,
+};
